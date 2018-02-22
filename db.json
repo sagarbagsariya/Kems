@@ -1,7 +1,7 @@
 {
 
 "attendance": {
-  "meeting_list": [
+  "attendance_list": [
     {
       "isLeave": "no",
       "LeaveType": "",
