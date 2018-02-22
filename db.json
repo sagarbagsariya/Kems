@@ -1,11 +1,40 @@
 {
 
-"images": [
+"attendance": {
+  "meeting_list": [
     {
-      
-      "src": "sss"
+      "isLeave": "no",
+      "LeaveType": "",
+      "date": "01/01/2018",
+      "sarttime": "10:30 AM",
+      "endtime": "05:30 PM"
+    },
+    {
+      "isLeave": "no",
+      "LeaveType": "",
+      "date": "01/01/2018",
+      "sarttime": "10:04 AM",
+      "endtime": "07:30 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "01/01/2018",
+      "sarttime": "",
+      "endtime": ""
+    },
+    {
+      "isLeave": "no",
+      "LeaveType": "",
+      "date": "01/01/2018",
+      "sarttime": "11:45 AM",
+      "endtime": "08:30 PM"
     }
   ],
+  "totCount": 6,
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+},
 
   "posts": [
     {
