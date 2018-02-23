@@ -29,6 +29,41 @@
       "date": "15/03/2018",
       "inTime": "11:45 AM",
       "outTime": "08:30 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "16/03/2018",
+      "inTime": "10:34 AM",
+      "outTime": "08:30 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "15/02/2018",
+      "inTime": "09:21 AM",
+      "outTime": "11:45 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "10/02/2018",
+      "inTime": "10:34 AM",
+      "outTime": "08:30 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "09/02/2018",
+      "inTime": "11:25 AM",
+      "outTime": "06:51 PM"
+    },
+    {
+      "isLeave": "Yes",
+      "LeaveType": "Seak",
+      "date": "08/02/2018",
+      "inTime": "11:18 AM",
+      "outTime": "04:55 PM"
     }
   ],
   "totCount": 3,
