@@ -31,15 +31,15 @@
       "outTime": "08:30 PM"
     },
     {
-      "isLeave": "Yes",
-      "LeaveType": "Seak",
+      "isLeave": "no",
+      "LeaveType": "",
       "date": "16/03/2018",
       "inTime": "10:34 AM",
       "outTime": "08:30 PM"
     },
     {
-      "isLeave": "Yes",
-      "LeaveType": "Seak",
+      "isLeave": "no",
+      "LeaveType": "",
       "date": "15/02/2018",
       "inTime": "09:21 AM",
       "outTime": "11:45 PM"
@@ -59,8 +59,8 @@
       "outTime": "06:51 PM"
     },
     {
-      "isLeave": "Yes",
-      "LeaveType": "Seak",
+      "isLeave": "no",
+      "LeaveType": "",
       "date": "08/02/2018",
       "inTime": "11:18 AM",
       "outTime": "04:55 PM"
