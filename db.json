@@ -6,29 +6,29 @@
       "isLeave": "no",
       "LeaveType": "",
       "date": "18/03/2018",
-      "sarttime": "10:30 AM",
-      "endtime": "05:30 PM"
+      "inTime": "10:30 AM",
+      "outTime": "05:30 PM"
     },
     {
       "isLeave": "no",
       "LeaveType": "",
       "date": "17/03/2018",
-      "sarttime": "10:04 AM",
-      "endtime": "07:30 PM"
+      "inTime": "10:04 AM",
+      "outTime": "07:30 PM"
     },
     {
       "isLeave": "Yes",
       "LeaveType": "Seak",
       "date": "16/03/2018",
-      "sarttime": "",
-      "endtime": ""
+      "inTime": "",
+      "outTime": ""
     },
     {
       "isLeave": "no",
       "LeaveType": "",
       "date": "15/03/2018",
-      "sarttime": "11:45 AM",
-      "endtime": "08:30 PM"
+      "inTime": "11:45 AM",
+      "outTime": "08:30 PM"
     }
   ],
   "totCount": 3,
