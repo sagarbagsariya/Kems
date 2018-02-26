@@ -12,13 +12,6 @@
   {
     "isLeave": "no",
     "LeaveType": "",
-    "date": "2/03/2018",
-    "inTime": "10:04 AM",
-    "outTime": "07:30 PM"
-  },
-  {
-    "isLeave": "no",
-    "LeaveType": "",
     "date": "3/03/2018",
     "inTime": "10:34 AM",
     "outTime": "08:30 PM"
@@ -205,13 +198,7 @@
     "inTime": "11:18 AM",
     "outTime": "04:55 PM"
   },
-  {
-    "isLeave": "no",
-    "LeaveType": "",
-    "date": "30/03/2018",
-    "inTime": "11:18 AM",
-    "outTime": "04:55 PM"
-  },
+  
   {
     "isLeave": "no",
     "LeaveType": "",
