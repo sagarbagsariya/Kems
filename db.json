@@ -191,21 +191,20 @@
     "inTime": "",
     "outTime": ""
   },
-  {
-    "isLeave": "no",
-    "LeaveType": "",
-    "date": "29/03/2018",
-    "inTime": "11:18 AM",
-    "outTime": "04:55 PM"
-  },
-  
-  {
-    "isLeave": "no",
-    "LeaveType": "",
-    "date": "31/03/2018",
-    "inTime": "11:18 AM",
-    "outTime": "04:55 PM"
-  }
+   {
+      "isLeave": "Yes",
+      "LeaveType": "Sunday",
+      "date": "01/04/2018",
+      "inTime": "",
+      "outTime": ""
+    },
+    {
+      "isLeave": "no",
+      "LeaveType": "",
+      "date": "02/04/2018",
+      "inTime": "11:00 AM",
+      "outTime": "05:45 PM"
+    }
 ],
   "totCount": 18,
   "result": 1,
