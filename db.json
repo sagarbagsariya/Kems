@@ -220,6 +220,7 @@
         "date": "01/04/2018"
       }
     ],
+    "FinancYear": "2017-2018",
     "totalLeaves": 12,
     "LeavesTaken": 6,
     "PersonalLeave": 2,
@@ -231,6 +232,20 @@
     "message": "Record Found Successfully !!!"
   },
   "profile": {
-    "name": "typicode"
-  }
+  "Name": "Margie Halfman",
+  "Department": "Sales",
+  "Designation": "Manager",
+  "Photo": "url",
+  "Email": "Margie@gmail.com",
+  "PhoneNo": "7433011878",
+  "Address": "358,shikhar apartment",
+  "Date": "1 jan 2018",
+  "Birthdate": "12 jun 2018 ",
+  "Experience": "2.5 year exp",
+  "TotalExpense": "2500",
+  "TotalVisits": "35",
+  "TotalCollection": "2500",
+  "TotaLeaves": "12/15",
+  "TotalAttandence": "83/92"
+}
 }
