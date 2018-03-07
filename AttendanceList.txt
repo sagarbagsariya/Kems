@@ -1,0 +1,210 @@
+{
+"attendance_list": [
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "1/03/2018",
+    "inTime": "10:30 AM",
+    "outTime": "05:30 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "3/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Sunday",
+    "date": "4/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "5/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Seak Leave",
+    "date": "6/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Seak Leave",
+    "date": "7/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Seak Leave",
+    "date": "8/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "9/03/2018",
+    "inTime": "11:18 AM",
+    "outTime": "04:55 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "10/03/2018",
+    "inTime": "11:18 AM",
+    "outTime": "04:55 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Sunday",
+    "date": "11/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Casual Leave",
+    "date": "12/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "13/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "14/03/2018",
+    "inTime": "11:45 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Personal Leave",
+    "date": "15/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "16/03/2018",
+    "inTime": "09:21 AM",
+    "outTime": "11:45 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "17/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Sunday",
+    "date": "18/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "19/03/2018",
+    "inTime": "11:18 AM",
+    "outTime": "04:55 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "20/03/2018",
+    "inTime": "11:18 AM",
+    "outTime": "04:55 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Personal Leave",
+    "date": "21/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "22/03/2018",
+    "inTime": "10:04 AM",
+    "outTime": "07:30 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "23/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "24/03/2018",
+    "inTime": "11:45 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Sunday",
+    "date": "25/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "26/03/2018",
+    "inTime": "09:21 AM",
+    "outTime": "11:45 PM"
+  },
+  {
+    "isLeave": "no",
+    "LeaveType": "",
+    "date": "27/03/2018",
+    "inTime": "10:34 AM",
+    "outTime": "08:30 PM"
+  },
+  {
+    "isLeave": "Yes",
+    "LeaveType": "Casual Leave",
+    "date": "28/03/2018",
+    "inTime": "",
+    "outTime": ""
+  },
+   {
+      "isLeave": "Yes",
+      "LeaveType": "Sunday",
+      "date": "01/04/2018",
+      "inTime": "",
+      "outTime": ""
+    },
+    {
+      "isLeave": "no",
+      "LeaveType": "",
+      "date": "02/04/2018",
+      "inTime": "11:00 AM",
+      "outTime": "05:45 PM"
+    }
+],
+  "totCount": 18,
+  "result": 1,
+  "message": "Record Found Successfully !!!"
+}
