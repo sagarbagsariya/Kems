@@ -8,6 +8,21 @@
         "inTime": "10:30 AM",
         "outTime": "05:30 PM"
       },
+	  {
+        "isLeave": "Yes",
+        "LeaveType": "Casual Leave",
+        "date": "12/03/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "15/03/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
       {
         "isLeave": "Yes",
         "LeaveType": "Sunday",
