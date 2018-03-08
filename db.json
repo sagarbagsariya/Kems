@@ -1,34 +1,174 @@
 {
   "attendance": {
     "attendance_list": [
-      {
-        "isLeave": "no",
-        "LeaveType": "",
-        "date": "1/03/2018",
-        "inTime": "10:30 AM",
-        "outTime": "05:30 PM"
-      },
-	  {
+     	{
         "isLeave": "Yes",
-        "LeaveType": "Casual Leave",
-        "date": "12/03/2018",
-        "inTime": "",
-        "outTime": ""
-      },
-	   {
-        "isLeave": "Yes",
-        "LeaveType": "Personal Leave",
-        "date": "15/03/2018",
+        "LeaveType": "Sunday",
+        "date": "1/04/2018",
         "inTime": "",
         "outTime": ""
       },
 	  
-      {
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "2/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "3/04/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
         "isLeave": "Yes",
-        "LeaveType": "Sunday",
-        "date": "4/03/2018",
+        "LeaveType": "Seak Leave",
+        "date": "4/04/2018",
         "inTime": "",
         "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "5/04/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "6/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "7/04/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Sunday",
+        "date": "8/04/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "9/04/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "10/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "11/04/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Casual Leave",
+        "date": "12/04/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "13/04/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "14/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "Yes",
+        "LeaveType": "Sunday",
+        "date": "15/04/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "16/04/2018",
+        "inTime": "09:30 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "17/04/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
+      },	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "18/04/2018",
+        "inTime": "10:00 AM",
+        "outTime": "07:00 PM"
+      },
+	  
+	  
+	  {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "19/04/2018",
+        "inTime": "10:30 AM",
+        "outTime": "07:30 PM"
+      },
+	  
+	   {
+        "isLeave": "Yes",
+        "LeaveType": "Personal Leave",
+        "date": "20/04/2018",
+        "inTime": "",
+        "outTime": ""
+      },
+	  
+	   {
+        "isLeave": "no",
+        "LeaveType": "",
+        "date": "21/04/2018",
+        "inTime": "10:00",
+        "outTime": "05:30"
       }
     ],
     "totCount": 10,
