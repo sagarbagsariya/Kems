@@ -287,20 +287,20 @@
   "message": "Record Found Successfully !!!"
 },
   "profile": {
-    "Name": "Margie Halfman",
-    "Department": "Sales",
-    "Designation": "Manager",
-    "Photo": "url",
-    "Email": "Margie@gmail.com",
-    "PhoneNo": "7433011878",
-    "Address": "358,shikhar apartment",
-    "Date": "1 jan 2018",
-    "Birthdate": "12 jun 2018 ",
-    "Experience": "2.5 year exp",
-    "TotalExpense": "2500",
-    "TotalVisits": "35",
-    "TotalCollection": "2500",
-    "TotaLeaves": "12/15",
-    "TotalAttandence": "83/92"
-  }
+  "Name": "Kody",
+  "Department": "Sales",
+  "Designation": "Manager",
+  "Photo": "https://www.w3schools.com/images/w3schools_green.jpg",
+  "Email": "kody@gmail.com",
+  "PhoneNo": "7433011878",
+  "Address": "358,shikhar apartment",
+  "Date": "1 jan 2018",
+  "Birthdate": "12 jun 2018 ",
+  "Experience": "2.5 year exp",
+  "TotalExpense": "5000",
+  "TotalVisits": "12",
+  "TotalCollection": "78",
+  "TotaLeaves": "14/98",
+  "TotalAttandence": "83/91"
+}
 }
