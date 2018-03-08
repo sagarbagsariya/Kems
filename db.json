@@ -276,13 +276,14 @@
       "SeniorPerson": "mark henry"
     }
   ],
-  "totalLeaves": 12,
-  "LeavesTaken": 6,
-  "PersonalLeave": 2,
-  "CasualLeave": 1,
-  "SickLeave": 3,
-  "OptionalLeave": 0,
-  "Other": 0,
+  "FinancYear": "2017 - 2018",
+  "totalLeaves": "12",
+  "LeavesTaken": "6",
+  "PersonalLeave": "2",
+  "CasualLeave": "1",
+  "SickLeave": "3",
+  "OptionalLeave": "0",
+  "Other": "0",
   "result": 1,
   "message": "Record Found Successfully !!!"
 },
