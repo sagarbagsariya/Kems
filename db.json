@@ -260,6 +260,21 @@
       "Department": "Sales",
       "SeniorPerson": "mark henry"
     },
+     {
+      "LeaveType": "Personal leave",
+      "IsPartial": "No",
+      "TotalDays": "1",
+      "LeaveStatus": "Approved",
+      "ApplayDate": "01/03/2018",
+      "StartDate": "21/03/2018",
+      "StartTime": "",
+      "EndDate": "31/03/2018",
+      "EndTime": "",
+      "ReasonLeave": " As you know recently I got married in previous month I have a plan to go for honeymoon in Dubai .",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
     {
       "LeaveType": "Other",
       "IsPartial": "No",
@@ -276,14 +291,13 @@
       "SeniorPerson": "mark henry"
     }
   ],
-  "FinancYear": "2017 - 2018",
-  "totalLeaves": "12",
-  "LeavesTaken": "6",
-  "PersonalLeave": "2",
-  "CasualLeave": "1",
-  "SickLeave": "3",
-  "OptionalLeave": "0",
-  "Other": "0",
+  "totalLeaves": 12,
+  "LeavesTaken": 6,
+  "PersonalLeave": 2,
+  "CasualLeave": 1,
+  "SickLeave": 3,
+  "OptionalLeave": 0,
+  "Other": 0,
   "result": 1,
   "message": "Record Found Successfully !!!"
 },
