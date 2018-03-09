@@ -288,13 +288,12 @@
   "message": "Record Found Successfully !!!"
 },
   "profile": {
-  "Name": "Kody",
-  "Department": "Sales",
-  "Designation": "Manager",
+  "Name": "Kody Technolab",
+  "Department": "Marketing",
   "Photo": "https://image.ibb.co/mKPd3S/profile_img.jpg",
   "Email": "kody@gmail.com",
   "PhoneNo": "7433011878",
-  "Address": "358,shikhar apartment",
+  "Address": "Rajpathclub Road",
   "Date": "1 jan 2018",
   "Birthdate": "12 jun 2018 ",
   "Experience": "2.5 year exp",
