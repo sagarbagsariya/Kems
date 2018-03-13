@@ -306,10 +306,10 @@
       "SeniorPerson": "mark henry"
     }
   ],
-  "totalLeaves": 12,
-  "LeavesTaken": 6,
-  "PersonalLeave": 2,
-  "CasualLeave": 1,
+  "totalLeaves": 24,
+  "LeavesTaken": 10,
+  "PersonalLeave": 6,
+  "CasualLeave": 0,
   "SickLeave": 3,
   "OptionalLeave": 0,
   "Other": 0,
