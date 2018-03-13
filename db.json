@@ -218,6 +218,21 @@
     {
       "LeaveType": "Sick Leave",
       "IsPartial": "No",
+      "TotalDays": "5",
+      "LeaveStatus": "Approved",
+      "ApplayDate": "15/06/2018",
+      "StartDate": "16/06/2018",
+      "StartTime": "",
+      "EndDate": "20/06/2018",
+      "EndTime": "",
+      "ReasonLeave": "I have some important work to do at home . ",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
+    },
+    {
+      "LeaveType": "Sick Leave",
+      "IsPartial": "No",
       "TotalDays": "3",
       "LeaveStatus": "Pending",
       "ApplayDate": "22/03/2018",
