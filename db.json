@@ -310,7 +310,7 @@
   "LeavesTaken": 10,
   "PersonalLeave": 6,
   "CasualLeave": 1,
-  "Sick": 3,
+  "SickLeave": 3,
   "OptionalLeave": 1,
   "Other": 0,
   "result": 1,
