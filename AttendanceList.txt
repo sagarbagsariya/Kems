@@ -199,6 +199,13 @@
     {
       "isLeave": "no",
       "LeaveType": "",
+      "date": "21/03/2018",
+      "inTime": "10:00 AM",
+      "outTime": "07:10 PM"
+    },
+    {
+      "isLeave": "no",
+      "LeaveType": "",
       "date": "02/04/2018",
       "inTime": "11:00 AM",
       "outTime": "05:45 PM"
