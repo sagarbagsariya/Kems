@@ -231,19 +231,19 @@
       "SeniorPerson": "mark henry"
     },
     {
-      "LeaveType": "Sick Leave",
+      "LeaveType": "Seak Leave",
       "IsPartial": "No",
-      "TotalDays": "3",
-      "LeaveStatus": "Pending",
-      "ApplayDate": "22/03/2018",
-      "StartDate": "28/03/2018",
+      "TotalDays": "1",
+      "LeaveStatus": "Approved",
+      "ApplayDate": "10/04/2018",
+      "StartDate": "27/04/2018",
       "StartTime": "",
-      "EndDate": "30/03/2018",
+      "EndDate": "27/04/2018",
       "EndTime": "",
-      "ReasonLeave": "Due to eating at a new place, had food poisoning and vomiting a lot or may be an allergic reaction with some food. So, went to the hospital.",
+      "ReasonLeave": "I am ill . ",
       "ReasonRejected": "",
       "Department": "Sales",
-      "SeniorPerson": "mark henry"
+      "SeniorPerson": "henry"
     },
     {
       "LeaveType": "Casual leave",
