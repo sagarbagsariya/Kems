@@ -11,8 +11,8 @@
 	  
 	  {
         "isLeave": "Yes",
-        "LeaveType": "Seak Leave",
-        "date": "27/03/2018",
+        "LeaveType": "Sick Leave",
+        "date": "27/04/2018",
         "inTime": "",
         "outTime": ""
       },
@@ -231,7 +231,7 @@
       "SeniorPerson": "mark henry"
     },
     {
-      "LeaveType": "Seak Leave",
+      "LeaveType": "Sick Leave",
       "IsPartial": "No",
       "TotalDays": "1",
       "LeaveStatus": "Approved",
