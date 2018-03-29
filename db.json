@@ -3,7 +3,7 @@
     "attendance_list": [
  	{
         "isLeave": "Yes",
-        "LeaveType": "Sunday",
+        "LeaveType": "Week off",
         "date": "1/04/2018",
         "inTime": "",
         "outTime": ""
@@ -60,7 +60,7 @@
 	  
 	   {
         "isLeave": "Yes",
-        "LeaveType": "Sunday",
+        "LeaveType": "Week off",
         "date": "8/07/2018",
         "inTime": "",
         "outTime": ""
@@ -116,7 +116,7 @@
 	  
 	  {
         "isLeave": "Yes",
-        "LeaveType": "Sunday",
+        "LeaveType": "Week off",
         "date": "11/11/2018",
         "inTime": "",
         "outTime": ""
