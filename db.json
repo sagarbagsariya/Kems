@@ -304,6 +304,21 @@
       "ReasonRejected": "",
       "Department": "Sales",
       "SeniorPerson": "mark henry"
+    },
+	  {
+      "LeaveType": "Personal leave",
+      "IsPartial": "No",
+      "TotalDays": "2",
+      "LeaveStatus": "Draft",
+      "ApplayDate": "",
+      "StartDate": "09/05/2018",
+      "StartTime": "",
+      "EndDate": "10/05/2018",
+      "EndTime": "",
+      "ReasonLeave": " My distance cousin is getting married and I can’t afford to miss that. Actually he came home to invite me personally.",
+      "ReasonRejected": "",
+      "Department": "Sales",
+      "SeniorPerson": "mark henry"
     }
   ],
   "FinancYear":"2017-2018",	  
